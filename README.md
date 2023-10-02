@@ -1,5 +1,7 @@
 <div class="oranda-hide">
 
+Solutions for the rustlings exercises
+
 # rustlings 🦀❤️
 
 </div>
